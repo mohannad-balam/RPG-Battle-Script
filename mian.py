@@ -3,6 +3,7 @@ from classes.magic import Spell
 from classes.inventory import Item
 import random
 
+#github user name : mohannad-balam
 
 # print("\n\n")
 # print("NAME                       HP                                    MP")
